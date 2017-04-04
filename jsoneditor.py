@@ -6,7 +6,7 @@
 # run outside of the folder and modify the keys below
 import os, json
 
-dir = "test"
+dir = "config"
 key = "ShutdownOnFarmingFinished"
 value = False
 
